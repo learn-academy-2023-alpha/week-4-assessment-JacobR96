@@ -40,12 +40,12 @@ Researched answer:Calling the hash followed by a key name within brackets grabs 
 
 ## Looking Ahead: Terms for Next Week
 
-1. Class Inheritance:
+1. Class Inheritance: class inheriteace are like props from react. you have the parent and child relationship and you can pass property's to the child  by using  child < parent 
 
-2. RSpec:
+2. RSpec: is a testing library used in ruby . 
 
-3. CRUD:
+3. CRUD: is the basic rules for using databases a, it stand for create, read, update and delete
 
-4. Test-driven development:
+4. Test-driven development: test driven devolpment means making your test in Rspec or Jest fix and then creating you rfunction to pass the test you gave it .
 
-5. HTTP:
+5. HTTP: hyper text transfer proctocal. it uses port 80 and is unsecure. the secure version of this port is 443 which is https. 
