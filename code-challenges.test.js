@@ -36,7 +36,7 @@ const { array } = require("yargs")
 
 // // // input: an array
 // // // Output: the first item from the array and shuffles the remaining content
-// // // PsuedoCode:create a funtion that will pop the first index in the array and shuffle the rest.
+// // // PsuedoCode:create a funtion that will pop the first index by using the reverse method since pop only deleted the last index. After i pop it i was to shiffle it as best as possible  so ill use the .sort mothed to organize it by a-b
 
 // // //user comment- So i got the function to work and but it keeps failing the test. So the way that this function works is that it reverses the array and using the pop method we can delete what was orginanaly the first index and the reverse method sorta shuffles it .
 // I adjusted my test, it was set to expect the exact array. now by using expect.arrayContaining  it looks for those values but not in that index order.
@@ -132,4 +132,4 @@ const { array } = require("yargs")
 
 
 
-//User Comment:Both functions work as intended to.
+// User Comment:Both functions work as intended 
