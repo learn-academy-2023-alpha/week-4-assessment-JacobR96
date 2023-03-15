@@ -48,4 +48,4 @@ Researched answer:Calling the hash followed by a key name within brackets grabs 
 
 4. Test-driven development: test driven devolpment means making your test in Rspec or Jest fix and then creating you rfunction to pass the test you gave it .
 
-5. HTTP: hyper text transfer proctocal. it uses port 80 and is unsecure. the secure version of this port is 443 which is https. 
+5. HTTP: hyper text transfer proctocal. it uses port 80 and is unsecure. the secure version of this port is 443 which is https. git status
